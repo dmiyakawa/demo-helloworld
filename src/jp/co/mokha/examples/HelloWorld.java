@@ -7,7 +7,7 @@ import java.io.PrintStream;
  */
 public class HelloWorld {
 	/**
-	 * Hello Worldと表示する
+	 * Hello Worldと表示する。
 	 */
 	public static void main(String args[]) {
 		printText("Hello World");
